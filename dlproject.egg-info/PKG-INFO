@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dlproject
+Version: 0.0.1
+Author: Ryan
+Author-email: ryanferds23@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
